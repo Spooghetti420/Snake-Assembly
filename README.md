@@ -4,7 +4,7 @@ This project is the classic, unmistakable game of "Snake", faithfully ported to 
 ## Running
 Any more and there is a good chance that the game would become interolably slow much too quickly.
 I worked diligently to create a vaguely enjoyable rendition of Snake that also runs in the browser!
-In order to run the program in its intended environment, go to [https://peterhigginson.co.uk/AQA](), either pressing "Load" and selecting the assembly source file, or copy-pasting the contents into the assembler.
+In order to run the program in its intended environment, go to [https://peterhigginson.co.uk/AQA](https://peterhigginson.co.uk/AQA), either pressing "Load" and selecting the assembly source file, or copy-pasting the contents into the assembler.
 NOTE: It is *highly* recommended that you hit the "OPTIONS" dropdown and select `def fast` before beginning the game with the "Run" button.
 As a further suggestion, you should also additionally hit the `>>` symbol to increase the rate all the way up to 24.9. The game will wait for your first input, so you do not need to worry about hitting into a wall while cranking up the speed. 
 
